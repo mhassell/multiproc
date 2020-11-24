@@ -5,3 +5,5 @@ https://pymotw.com/2/multiprocessing/basics.html
 https://stackoverflow.com/questions/45665991/multiprocessing-returns-too-many-open-files-but-using-with-as-fixes-it-wh
 
 https://stackoverflow.com/questions/10415028/how-can-i-recover-the-return-value-of-a-function-passed-to-multiprocessing-proce
+
+https://stackoverflow.com/questions/3827065/can-i-use-a-multiprocessing-queue-in-a-function-called-by-pool-imap
